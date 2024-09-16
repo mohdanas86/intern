@@ -7,7 +7,7 @@ This project enhances the Task Planet application's UI with a modern design, imp
 Certainly! Here’s the revised "Getting Started" section in code format:
 
 ### Live Preview 
-`http://localhost:3000`
+https://taskplanetanas.netlify.app
 
 ## 🛠️ Getting Started
 
