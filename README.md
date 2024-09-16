@@ -34,5 +34,3 @@ https://taskplanetanas.netlify.app
    # or
    yarn start
 
-
-## This README provides essential information succinctly and is easy for users to follow. Adjust any sections or links as needed!
