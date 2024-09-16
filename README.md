@@ -8,10 +8,11 @@ This project enhances the Task Planet application's UI with a modern design, imp
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/task-planet-ui-improvement.git
+   git clone https://github.com/mohdanas86/intern
 
-cd task-planet-ui-improvement
+cd intern
 
+```bash
 npm install
 # or
 yarn install
