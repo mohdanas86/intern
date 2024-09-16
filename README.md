@@ -10,6 +10,7 @@ This project enhances the Task Planet application's UI with a modern design, imp
    ```bash
    git clone https://github.com/mohdanas86/intern
 
+``bash
 cd intern
 
 ```bash
@@ -17,11 +18,9 @@ npm install
 # or
 yarn install
 
-
+``bash
 npm start
 # or
 yarn start
 
-
-
-This README provides essential information succinctly and is easy for users to follow. Adjust any sections or links as needed!
+## This README provides essential information succinctly and is easy for users to follow. Adjust any sections or links as needed!
